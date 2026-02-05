@@ -1,2 +1,2 @@
-# CSE475-Computer-Vision-Lab
-A Computer Vision Lab provides practical experience in enabling computers to interpret and analyze images and videos using techniques such as image processing, feature extraction, object detection, and deep learning–based vision models. Here the Lab Tasks that I have done. 
+# CSE475-Machine-Learning-Lab
+The Machine Learning Lab focuses on designing, implementing, and evaluating algorithms that enable systems to learn from data. The lab covers supervised, unsupervised, and reinforcement learning techniques, including regression, classification, clustering, dimensionality reduction, and neural networks. Students gain hands-on experience with real-world datasets using tools such as Python, scikit-learn, TensorFlow, and PyTorch, and learn model training, validation, performance evaluation, and optimization.
